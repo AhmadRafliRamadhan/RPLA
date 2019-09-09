@@ -6,3 +6,4 @@ Button,
 Binding View /findViewById()
 Mengambil nilai dari edittext ==> editText.getText().toString();
 parsing / mengubah string ke int ==> Integer.parseInt(etTinggi.getText().toString);
+![alt text] (https://i.imgur.com/M0H4Ldo.png)
